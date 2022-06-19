@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋 Hi, I’m Julian Elmasry, a Sophomore at Stony Brook University)](https://git.io/typing-svg) 
 - 👀 I’m interested in Full Stack Development / Web3
 - 🌱 I’m currently learning React, Rust, NextJS, NodeJS
