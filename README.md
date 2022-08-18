@@ -2,7 +2,7 @@
 
 - 📖 University At Buffalo Computer Science '24
 - 👀 I’m interested in Full Stack Development / Web3
-- 🌱 I’m currently learning React, Rust, NextJS, NodeJS
+- 🌱 I’m currently learning React, Rust, NextJS, Anchor Smart Contracts
 - 📫 Email: julian31186@gmail.com 
 
 
