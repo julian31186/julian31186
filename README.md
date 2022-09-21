@@ -4,6 +4,7 @@
 - 👀 I’m interested in Full Stack Development / Web3
 - 🌱 I’m currently learning React, Rust, NextJS, Anchor Smart Contracts
 - 📫 Email: julian31186@gmail.com 
+- 🤘  Biolink Page (https://bio.link/julianelmasry)
 
 
 ![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julian31186&show_icons=true&theme=radical)
