@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Julian+Elmasry)](https://git.io/typing-svg)
 
 - 📖 University At Buffalo Computer Science '24
-- 👀 I’m interested in Full Stack Development / Web3
-- 🌱 I’m currently learning React, Rust, NextJS, Anchor Smart Contracts
+- 👀 I’m interested in Full Stack Development 
+- 🌱 I’m currently learning React, Go, NextJS
 - 📫 Email: julian31186@gmail.com 
 -  🤘 [Biolink Page](https://bio.link/julianelmasry)
 
